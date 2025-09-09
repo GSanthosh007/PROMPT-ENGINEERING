@@ -1,4 +1,4 @@
-## Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+## EX-01 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 Experiment:
 Develop a comprehensive report for the following exercises:
 1.	Explain the foundational concepts of Generative AI. 
